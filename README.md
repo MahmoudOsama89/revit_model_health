@@ -11,7 +11,7 @@ publisher requirements.
 
 **Processed locally, never transmitted.** Your Revit models, IFC/IDS files, element data,
 parameter values, and the validation reports you generate are read and processed **entirely on
-your own computer**. The App does **not** send any model or project data to Gallium Arch or to any
+your own computer**. The App does **not** send any model or project data to BIM Guard or to any
 third party. Reports you export are written only to the file location you choose.
 
 **Collected for licensing (the only data transmitted).** When you activate or validate a paid
@@ -41,7 +41,7 @@ analytics SDKs, and no third-party tracking**.
   period required for support, accounting, and legal/tax compliance, after which they are deleted
   or anonymised.
 - **Local trial/license tokens** stored on your machine under
-  `%ProgramData%\Gallium\ModelHealthAuditor` are removed when you deactivate or uninstall.
+  `%ProgramData%\bimguard\ModelHealthAuditor` are removed when you deactivate or uninstall.
 
 ## 4. Revoking consent and requesting deletion
 
@@ -59,4 +59,4 @@ Material changes to this policy will be posted at https://github.com/MahmoudOsam
 "Last updated" date.
 
 ## Contact
-Gallium Arch — **mahmoud.ossama89@gmail.com* — 
+BIM Guard — **mahmoud.ossama89@gmail.com* — 
